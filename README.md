@@ -8,3 +8,6 @@ There is a .zip file in the data/art directory. Extract it as a directory called
 
 gan-cpu -> This is the cpu version of the DCGAN model
 gan-gpu -> This is the gpu version of the DCGANs model with optimizations  
+
+Recommended Way of Running Code:
+I recommend running the code in Colab or a similar environment unless you have a GPU. Simply upload the code in colab and get the data from the Abstract Art Gallary Dataset (https://www.kaggle.com/datasets/bryanb/abstract-art-gallery). 
